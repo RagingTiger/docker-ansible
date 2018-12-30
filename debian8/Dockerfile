@@ -7,7 +7,7 @@
 
 
 # pull base image
-FROM debian:jessie
+FROM arm32v7/debian:jessie
 
 MAINTAINER William Yeh <william.pjyeh@gmail.com>
 
